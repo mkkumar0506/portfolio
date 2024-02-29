@@ -103,6 +103,7 @@ img {
 
 .home-content h3 span {
     color: #0ef;
+    filter: drop-shadow(0 0 5px #0ef);
 
 }
 
@@ -113,6 +114,7 @@ img {
     opacity: 0;
     animation: slideRight .5s ease forwards;
     animation-delay: 1s;
+    filter: drop-shadow(0px 0px 20px #0ef);
 }
 
 .home-content p {
